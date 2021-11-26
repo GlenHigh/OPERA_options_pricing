@@ -1,0 +1,16 @@
+#right {
+  float: right;
+  width: 50%;
+  background: lightblue;
+}
+#left {
+  float: left;
+  width: calc(50%);
+  background: lightgreen;
+}
+
+#bigleft {
+  float: left;
+  width: calc(100% - 200px);
+  background: lightgreen;
+}

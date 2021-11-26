@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    background-color: rgb(200,250,255);
+    font-family: Garamond;
+    color: rgb(60,50,55);
+}
