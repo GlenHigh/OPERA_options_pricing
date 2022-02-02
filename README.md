@@ -24,7 +24,7 @@ Vol surface construction using:</br>
 Pricing library will house (in progress):
 - Local volatility under Dupire's framework (vol or price version, too see)
 - LSV model 
-- Hard-coded deep learning lib (in progress)
+- Hard-coded deep learning lib, autoencoders for vol surface denoising and construction (in progress)
 - Hard-coded optimizers (to come soon)
 - Blending statistical model (could range anywhere from basic stuff up to deepL)
 - Blended vol model (LV + (or *) adjustment (or scaling) factor to mimick LV-LSV pricing error)
