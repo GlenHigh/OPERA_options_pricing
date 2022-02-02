@@ -29,7 +29,7 @@ Pricing library will house (in progress):
 - Blending statistical model (could range anywhere from basic stuff up to deepL)
 - Blended vol model (LV + (or *) adjustment (or scaling) factor to mimick LV-LSV pricing error)
 
-## Fake order-placing (to come)
+## Simulated order-placing (to come)
 Illustrative module faking options order-placing from the click of dash buttons</br>
 Based on CBOE's FIX protocol for US options : [CBOE FIX](https://cdn.cboe.com/resources/membership/US_Options_FIX_Specification.pdf)</br>
 
